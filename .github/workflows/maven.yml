@@ -31,7 +31,7 @@ jobs:
       with:
         software: paper
         version: "1.8.8"
-        java: 8
+        java: 11
         commands: |
           wlib plugins
         tocheck: |
